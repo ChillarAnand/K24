@@ -44,8 +44,19 @@
 | its closed             | adu muchchithu               | adu muccitu             | ಅದು ಮುಚ್ಚಿತು          |
 
 
+*** Conversions
 
-* Guest Converstation
+
+**** About Kannada
+
+| english                       | kenglish             | phonetics            | kannada      |
+|-------------------------------+----------------------+----------------------+--------------|
+| do you want to learn kannada? | kannaḍa kaliya beka? | kannaḍa kaliya beka? | ಕನ್ನಡ ಕಲಿಯ ಬೆಕ? |
+
+
+
+
+**** Guest Converstation
 
 | english            | kenglish           | phonetics          | kannada       |
 |--------------------+--------------------+--------------------+---------------|
@@ -69,12 +80,15 @@
 | I went to library | nanu librarikke hogidde | nānu laibrarikke hōgidde | ನಾನು ಲೈಬ್ರರಿಕ್ಕೆ   ಹೋಗಿದ್ದೆ |
 
 
+**** Others
+
+| english                           | kenglish                         | phonetics                    | kannada                    |
+|-----------------------------------+----------------------------------+------------------------------+----------------------------|
+| Don't talk on phone while driving | drive maaduvaaga phone maadabeda | Ḍraiv māḍuvāga phōn māḍabēḍa | ಡ್ರೈವ್  ಮಾಡುವಾಗ  ಫೋನ್  ಮಾಡಬೇಡ |
 
 
 
-
-
-* slang
+**** slang
 
 | kannada | kenglish | literal meaning | actual meaning                     |
 |---------+----------+-----------------+------------------------------------|
