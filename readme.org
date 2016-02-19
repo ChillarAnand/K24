@@ -1,3 +1,8 @@
+-*- mode: org -*-
+#+STARTUP: showeverything
+
+
+
 **** questions
 
 | english | kenglish | pronounciation | kannada |
@@ -12,7 +17,7 @@
 
 
 
-* words
+**** words
 
 | english         | kenglish      | kannada   |
 |-----------------+---------------+-----------|
@@ -32,20 +37,22 @@
 
 
 
-* sentences
+**** sentences
 
-| english                | kenglish                     |                         | kannada             |
-|------------------------+------------------------------+-------------------------+---------------------|
-| whose book is this?    |                              |                         | ಈ ಪುಸ್ತಕವು ಯಾರದು?    |
-| until it finishes, sit |                              |                         | ಅದು ಮುಗಿಯೋತನಕ ಕೂತುಕೋ |
-| dont tell lies         |                              |                         |                     |
-| come, lets go for tea  | tea ge hogona, banni         | ṭī ge hōgōṇa, banni     | ಟೀ ಗೆ ಹೋಗೋಣ, ಬನ್ನಿ     |
-| my sister is studying  | nanna tangi oduththidhdhalhe | nanna taṅgi ōduttiddāḷe | ನನ್ನ ತಂಗಿ ಓದುತ್ತಿದ್ದಾಳೆ   |
-| its closed             | adu muchchithu               | adu muccitu             | ಅದು ಮುಚ್ಚಿತು          |
+| english                      | kenglish                     |                         | kannada              |
+|------------------------------+------------------------------+-------------------------+----------------------|
+| whose book is this?          |                              |                         | ಈ ಪುಸ್ತಕವು ಯಾರದು?     |
+| until it finishes, sit       |                              |                         | ಅದು ಮುಗಿಯೋತನಕ ಕೂತುಕೋ  |
+| dont tell lies               |                              |                         |                      |
+| come, lets go for tea        | tea ge hogona, banni         | ṭī ge hōgōṇa, banni     | ಟೀ ಗೆ ಹೋಗೋಣ, ಬನ್ನಿ      |
+| my sister is studying        | nanna tangi oduththidhdhalhe | nanna taṅgi ōduttiddāḷe | ನನ್ನ ತಂಗಿ ಓದುತ್ತಿದ್ದಾಳೆ    |
+| its closed                   | adu muchchithu               | adu muccitu             | ಅದು ಮುಚ್ಚಿತು           |
+| why are you not eating this? | idu yake ninu tintayilla     | Idu yake ninu tintilla  | ಇದು ಯಾಕೆ  ನೀನು ತಿನ್ತಯಿಲ್ಲ |
+|                              |                              |                         |                      |
 
 
 
-* Guest Converstation
+**** Guest Converstation
 
 | english            | kenglish           | phonetics          | kannada       |
 |--------------------+--------------------+--------------------+---------------|
@@ -54,7 +61,7 @@
 | Come in            | olhage banni       | oḷage banni        | ಒಳಗೆ ಬನ್ನಿ       |
 
 
-* Bus converstation
+**** Bus converstation
 
 | english   | kenglish  | phonetics    | kannada  |
 |-----------+-----------+--------------+----------|
@@ -62,7 +69,7 @@
 
 
 
-* Library Converstation
+**** Library Converstation
 
 | english           | kenglish                | phonetics                | kannada              |
 |-------------------+-------------------------+--------------------------+----------------------|
@@ -74,7 +81,7 @@
 
 
 
-* slang
+**** slang
 
 | kannada | kenglish | literal meaning | actual meaning                     |
 |---------+----------+-----------------+------------------------------------|
