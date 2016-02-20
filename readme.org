@@ -3,7 +3,8 @@
 
 
 
-**** questions
+**** Prepositions
+
 
 | english | kenglish | pronounciation | kannada |
 |---------+----------+----------------+---------|
@@ -11,9 +12,9 @@
 | why     | yake     |                | ಏಕೆ      |
 | where   | yelli    |                | ಎಲ್ಲಿ     |
 | when    | yaavaaga | yāvāga         | ಯಾವಾಗ   |
-| what    | yenu     | Ēnu               | ಏನು     |
+| what    | yenu     | Ēnu            | ಏನು     |
 | who     | yaaru    | yāru           | ಯಾರು    |
-|         |          |                |         |
+
 
 
 
@@ -34,6 +35,16 @@
 | nope/don't need | beda          | ಬೇಡ       |
 | waste           | kachada       | ಕಚಡ       |
 |                 |               |           |
+
+
+
+**** 2 word sentences
+
+| english      | kenglish   | Pronounciation | kannada  |
+|--------------+------------+----------------+----------|
+| kitchen room | adige kone | Aḍige kōṇe     | ಅಡಿಗೆ  ಕೋಣೆ |
+|              |            |                |          |
+
 
 
 
@@ -89,6 +100,7 @@
 | english                           | kenglish                         | phonetics                    | kannada                    |
 |-----------------------------------+----------------------------------+------------------------------+----------------------------|
 | Don't talk on phone while driving | drive maaduvaaga phone maadabeda | Ḍraiv māḍuvāga phōn māḍabēḍa | ಡ್ರೈವ್  ಮಾಡುವಾಗ  ಫೋನ್  ಮಾಡಬೇಡ |
+| which film are you watching?      | Yāva cinima nodtha idiya?        | Yāva sinimā nōḍtā idiyā?     | ಯಾವ ಸಿನಿಮಾ ನೋಡ್ತಾ ಇದಿಯಾ?       |
 
 
 
