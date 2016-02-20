@@ -109,3 +109,13 @@
 | kannada | kenglish | literal meaning | actual meaning                     |
 |---------+----------+-----------------+------------------------------------|
 | ಹೊಗೆ     | hoge     | smoke           | screwed; get in a big problem; die |
+
+
+
+**** Proverbs
+
+| kannada                     | kenglish                           | literal meaning                                       | actual meaning                                                                             | equivalent                                 |
+|-----------------------------+------------------------------------+-------------------------------------------------------+--------------------------------------------------------------------------------------------+--------------------------------------------|
+| ಕೋತಿ ತಾನೂ ಕೆಡೋದಲ್ದೆ ವನಾನೂ ಕೆಡಿಸ್ತು | Kōti tānū keḍōdalde vanānū keḍistu | The monkey ruined itself and it ruined the garden too | This warns one not to meddle with those who can bring down their detractors with them      |                                            |
+| ಎಡವಿದ ಕಾಲು ಎಡವುದು ಹೆಚ್ಚು       | Eḍavida kālu eḍavudu heccu         | a stumbled leg, stumbles more                         | a injured person is more prone to injuries / a addicted is more prone to further addiction | Misfortunes/difficulties never come single |
+| ಎರಡೂ ಕೈ ತಟ್ಟಿದರೆ ಸದ್ದು          | Eraḍū kai taṭṭidare saddu          | a clap, if both hands hit together                    | to clap you need both hands                                                                |                                            |
