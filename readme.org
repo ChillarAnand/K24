@@ -38,6 +38,19 @@
 
 
 
+**** Body parts
+
+
+| english | kenglish   | pronounciation | kannada |
+|---------+------------+----------------+---------|
+| lip     | thuti      | tuṭi           | ತುಟಿ     |
+| lips    | thutigalhu | Tuṭigaḷu       | ತುಟಿಗಳು  |
+| hand    | kai        | kai            | ಕೈ      |
+|         |            |                |         |
+
+
+
+
 **** 2 word sentences
 
 | english      | kenglish   | Pronounciation | kannada  |
@@ -50,16 +63,17 @@
 
 **** sentences
 
-| english                      | kenglish                     |                         | kannada              |
-|------------------------------+------------------------------+-------------------------+----------------------|
-| whose book is this?          |                              |                         | ಈ ಪುಸ್ತಕವು ಯಾರದು?     |
-| until it finishes, sit       |                              |                         | ಅದು ಮುಗಿಯೋತನಕ ಕೂತುಕೋ  |
-| dont tell lies               |                              |                         |                      |
-| come, lets go for tea        | tea ge hogona, banni         | ṭī ge hōgōṇa, banni     | ಟೀ ಗೆ ಹೋಗೋಣ, ಬನ್ನಿ      |
-| my sister is studying        | nanna tangi oduththidhdhalhe | nanna taṅgi ōduttiddāḷe | ನನ್ನ ತಂಗಿ ಓದುತ್ತಿದ್ದಾಳೆ    |
-| its closed                   | adu muchchithu               | adu muccitu             | ಅದು ಮುಚ್ಚಿತು           |
-| why are you not eating this? | idu yake ninu tintayilla     | Idu yake ninu tintilla  | ಇದು ಯಾಕೆ  ನೀನು ತಿನ್ತಯಿಲ್ಲ |
-|                              |                              |                         |                      |
+| english                      | kenglish                        |                                 | kannada                  |
+|------------------------------+---------------------------------+---------------------------------+--------------------------|
+| come, lets go for tea        | tea ge hogona, banni            | ṭī ge hōgōṇa, banni             | ಟೀ ಗೆ ಹೋಗೋಣ, ಬನ್ನಿ          |
+| my sister is studying        | nanna tangi oduththidhdhalhe    | nanna taṅgi ōduttiddāḷe         | ನನ್ನ ತಂಗಿ ಓದುತ್ತಿದ್ದಾಳೆ        |
+| its closed                   | adu muchchithu                  | adu muccitu                     | ಅದು ಮುಚ್ಚಿತು               |
+| why are you not eating this? | idu yake ninu tintayilla        | Idu yake ninu tintilla          | ಇದು ಯಾಕೆ  ನೀನು ತಿನ್ತಯಿಲ್ಲ     |
+| I have three dogs            | Nanna hattira muru nayigalu ive | Nanna hattira mūrū nāyigaḷu ive | ನನ್ನ  ಹತ್ತಿರ ಮೂರೂ ನಾಯಿಗಳು ಇವೆ |
+| whose book is this?          |                                 |                                 | ಈ ಪುಸ್ತಕವು ಯಾರದು?         |
+| until it finishes, sit       |                                 |                                 | ಅದು ಮುಗಿಯೋತನಕ ಕೂತುಕೋ      |
+| dont tell lies               |                                 |                                 |                          |
+
 
 
 *** Conversions
